@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676600344233",
+    "project_id": "firestoresong",
+    "storage_bucket": "firestoresong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676600344233:android:9fc9b52b3f01159fafc3b8",
+        "android_client_info": {
+          "package_name": "com.chandran.firestoresong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676600344233-rf29a83uj5jnaatdehd2bp1j4vphp6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqZea6MJdumjxmMegDiiOT3GrAcgHMpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676600344233-rf29a83uj5jnaatdehd2bp1j4vphp6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
